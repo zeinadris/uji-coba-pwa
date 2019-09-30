@@ -1,0 +1,31 @@
+{
+  "name": "PWALuarBiasa",
+  "short_name": "PWALuarBiasa",
+  "theme_color": "#21f3e0",
+  "background_color": "#21f388",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/index.html",
+  "splash_pages": null,
+  "icons": [{
+  "src": "img/icons/logo1.gif",
+  "type": "image/gif",
+  "sizes": "128x128"
+  },
+  {
+    "src": "img/icons/logo2.gif",
+  "type": "image/gif",
+  "sizes": "152x152"
+  },
+  {
+    "src": "img/icons/logo3.gif",
+  "type": "image/gif",
+  "sizes": "144x144"
+  },
+  {
+    "src": "img/icons/logo4.gif",
+  "type": "image/gif",
+  "sizes": "192x192"
+  }
+]}
